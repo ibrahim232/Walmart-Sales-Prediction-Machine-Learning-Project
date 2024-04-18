@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://s.yimg.com/ny/api/res/1.2/rXENBrYvTBAH53uub8.dvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/fortune_175/392698f693225d44aa0a6e78b21dd53c" width="500" height="300">
 </p>
+
+
 1. [Data Overview](#data-overview)
 2. [Importing Libraries](#importing-libraries)
 3. [Data Cleaning & Preprocessing](#data-cleaning-and-preprocessing)
